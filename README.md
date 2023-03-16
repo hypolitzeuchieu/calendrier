@@ -1,6 +1,6 @@
 # calendrier
-salut tout le monde
-c'est mon premier projet en C
+##salut tout le monde
+###c'est mon premier projet en C
 comment est-ce qu'il marche ?
 
 -premierement il m'affiche l'heure locale peut importe le fuseau horaire
